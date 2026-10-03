@@ -1,0 +1,14 @@
+have you written shell script
+what is crontab
+do you know the crontab expression
+
+
+1.Linux => cmds+shell script*+crontab*
+2.DBMS+SQL*****
+3.AWS
+4.Bigdata
+5.Hive***
+data warehouse 
+OLTP OLAP 
+partitions,bucketing
+
